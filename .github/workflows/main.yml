@@ -1,6 +1,8 @@
 name: Get Sickpicks
 
-on: [push]
+on: 
+  schedule:
+    - cron: '30 6 * * 2,4'
 
 jobs:
   build:
