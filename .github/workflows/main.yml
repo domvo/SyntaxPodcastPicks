@@ -14,8 +14,9 @@ jobs:
         npm install
         git clone https://github.com/wesbos/Syntax.git
         node index
-        git commit -am "automatic update"
-        git push origin master
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
         
         
 
