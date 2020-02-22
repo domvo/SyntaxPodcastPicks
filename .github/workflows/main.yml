@@ -1,0 +1,34 @@
+name: Get Sickpicks
+
+on: []
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    #- uses: actions/checkout@v2
+    - name: Get Podcasts
+      run: |
+        git clone https://github.com/wesbos/Syntax.git
+        npm install
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
