@@ -45,4 +45,6 @@ const getSickPicksAndWriteToReadme = async () => {
   await writeFile('./README.md', finalReadMeString);
 }
 
-getSickPicksAndWriteToReadme();
+(async () => {
+  await getSickPicksAndWriteToReadme();
+})();  
