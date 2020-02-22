@@ -1,8 +1,8 @@
 # SyntaxPodcastPicks (+ YouTube)
-If you're like me, you love the [Syntax.FM podcast](https://syntax.fm) and can't get enough of other cool podcasts. 
+If you're like me, you love the [Syntax.FM podcast](https://syntax.fm) and also can't get enough of other cool podcasts. 
 
 This is a list of all podcasts (and youtube channels/videos) Wes and Scott sick-picked. 
-Done with GitHub Actions and Node.js. The list updates itself every week and is in chronological order. Enjoy!
+The list **updates itself every Tuesday and Thursday** and is in chronological order. Done with GitHub Actions and Node.js. Enjoy!
 
 <!-- dynamic_content_below -->
 # Sick Picked Podcasts
