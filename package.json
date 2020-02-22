@@ -1,0 +1,25 @@
+{
+  "name": "SyntaxPodcastPicks",
+  "version": "1.0.0",
+  "description": "Get a list of all podcasts Wes and Scott sick-picked in the past.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domemvs/SyntaxPodcastPicks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domemvs/SyntaxPodcastPicks/issues"
+  },
+  "homepage": "https://github.com/domemvs/SyntaxPodcastPicks#readme",
+  "dependencies": {
+    "date-fns": "^2.9.0",
+    "glob": "^7.1.6",
+    "meta-marked": "^0.4.2"
+  }
+}

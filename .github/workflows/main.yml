@@ -1,6 +1,6 @@
 name: Get Sickpicks
 
-on: []
+on: [push]
 
 jobs:
   build:
@@ -8,12 +8,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    #- uses: actions/checkout@v2
+    - uses: actions/checkout@v2
     - name: Get Podcasts
       run: |
-        git clone https://github.com/wesbos/Syntax.git
         npm install
-        
+        git clone https://github.com/wesbos/Syntax.git
+        node index
+        git commit -am "automatic update"
+        git push origin master
         
         
 
