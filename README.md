@@ -22,6 +22,7 @@ Hoax Podcast | [Click me](https://podcasts.apple.com/us/podcast/hoax/id135422689
 Disgraceland Podcast | [Click me](https://www.disgracelandpod.com/) | Scott
 The Dream Podcast | [Click me](https://www.stitcher.com/podcast/stitcher/the-dream) | Scott
 Baron of Botox | [Click me](https://podcasts.apple.com/us/podcast/the-baron-of-botox/id1493450409) | Scott
+Matt Stauffer - Setting Up Your Webcam, Lights, and Audio for Remote Work, Podcasting, Videos, and Streaming | [Click me](https://mattstauffer.com/blog/setting-up-your-webcam-lights-and-audio-for-remote-work-podcasting-videos-and-streaming/) | Wes
 # Sick Picked Youtube Videos or Channels
 
 Name | Link | Sick Pick by
