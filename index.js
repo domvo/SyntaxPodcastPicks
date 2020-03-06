@@ -20,7 +20,11 @@ const getSickPicksAndWriteToReadme = async () => {
   ];
 
   podcastSickPicks.forEach(podcast => {
-    dynamicPodcastLines.push(`${podcast.title} | [Click me](${podcast.url}) | ${podcast.sickPickBy}`);
+    let title = podcast.title;
+    if (title.length > 30) {
+      title = `${title.substr(0, 29)}...`;
+    }
+    dynamicPodcastLines.push(`${title} | [Click me](${podcast.url}) | ${podcast.sickPickBy}`);
   });
 
   const dynamicYoutubeLines = [
@@ -30,8 +34,12 @@ const getSickPicksAndWriteToReadme = async () => {
     '--- | --- | ---',
   ];
 
-  youtubeSickPicks.forEach(podcast => {
-    dynamicYoutubeLines.push(`${podcast.title} | [Click me](${podcast.url}) | ${podcast.sickPickBy}`);
+  youtubeSickPicks.forEach(youtubeVideo => {
+    let title = youtubeVideo.title;
+    if (title.length > 30) {
+      title = `${title.substr(0, 29)}...`;
+    }
+    dynamicYoutubeLines.push(`${title} | [Click me](${youtubeVideo.url}) | ${youtubeVideo.sickPickBy}`);
   });
 
   const finalReadMeString = 
