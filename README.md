@@ -23,6 +23,7 @@ Disgraceland Podcast | [Click me](https://www.disgracelandpod.com/) | Scott
 The Dream Podcast | [Click me](https://www.stitcher.com/podcast/stitcher/the-dream) | Scott
 Baron of Botox | [Click me](https://podcasts.apple.com/us/podcast/the-baron-of-botox/id1493450409) | Scott
 Matt Stauffer - Setting Up Yo... | [Click me](https://mattstauffer.com/blog/setting-up-your-webcam-lights-and-audio-for-remote-work-podcasting-videos-and-streaming/) | Wes
+Stronger by Science Podcast | [Click me](https://www.strongerbyscience.com/podcast/) | Scott
 # Sick Picked Youtube Videos or Channels
 
 Name | Link | Sick Pick by
