@@ -54,3 +54,4 @@ Modern Vintage Gamer | [Click me](https://www.youtube.com/channel/UCjFaPUcJU1vwk
 Scott's YouTube Channel | [Click me](https://www.youtube.com/user/LevelUpTuts/videos) | Scott
 Katsumi Horii Project - Sky C... | [Click me](https://www.youtube.com/watch?v=ypdnSS0La7s) | Scott
 Ars Technica War Stories | [Click me](https://www.youtube.com/playlist?list=PLKBPwuu3eCYkScmqpD9xE7UZsszweVO0n) | Scott
+The Engineering Mindset YouTu... | [Click me](https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw) | Scott
