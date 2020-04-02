@@ -10,12 +10,10 @@ The list **updates itself every Tuesday and Thursday** and is in chronological o
 Name | Link | Sick Pick by
 --- | --- | ---
 The Indicator Podcast | [Click me](https://www.npr.org/sections/money/567724614/the-indicator) | Wes
-Tony Robins Podcast | [Click me](https://www.tonyrobbins.com/podcasts/) | Wes
 Containers Podcast | [Click me](https://medium.com/containers) | Wes
 Dark Net Diaries Podcast | [Click me](https://darknetdiaries.com/) | Scott
 Dr. Peter Attia - The Drive P... | [Click me](https://peterattiamd.com/podcast/) | Wes
 Swindled Podcast | [Click me](http://swindledpodcast.com/) | Scott
-Swindled Podcast | [Click me](http://swindledpodcast.com/) | Wes
 Last Seen Podcast | [Click me](https://www.wbur.org/lastseen) | Scott
 The Dream Podcast | [Click me](https://www.thedream.fm/) | Wes
 Hoax Podcast | [Click me](https://podcasts.apple.com/us/podcast/hoax/id1354226895) | Scott
@@ -28,10 +26,9 @@ Stronger by Science Podcast | [Click me](https://www.strongerbyscience.com/podca
 
 Name | Link | Sick Pick by
 --- | --- | ---
+ChefSteps | [Click me](https://www.youtube.com/user/chefsteps) | Wes
 What the heck is the event lo... | [Click me](https://www.youtube.com/watch?v=8aGhZQkoFbQ) | Wes
 Stance | [Click me](https://www.youtube.com/user/stanceelements) | Scott
-AvE Youtube Channel | [Click me](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA) | Wes
-Mustie1 Youtube Channel | [Click me](https://www.youtube.com/channel/UCcSeeATlWJJbXpOZRYOfaDg) | Wes
 Motherboard YouTube Channel | [Click me](https://www.youtube.com/user/MotherboardTV) | Wes
 B is for Build YouTube Channel | [Click me](https://www.youtube.com/channel/UCl4-WBRqWA2MlxmZorKOV7w) | Wes
 Red Bull BC One World Final 2... | [Click me](https://www.youtube.com/watch?v=N3jwdh-6Bi0) | Scott
