@@ -54,3 +54,4 @@ Ars Technica War Stories | [Click me](https://www.youtube.com/playlist?list=PLKB
 The Engineering Mindset YouTu... | [Click me](https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw) | Scott
 Jelle's Marble Runs | [Click me](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g) | Scott
 LevelUpTuts YouTube Channel | [Click me](https://www.youtube.com/user/LevelUpTuts) | Scott
+Wes' YouTube Channel | [Click me](https://www.youtube.com/wesbos) | Wes
