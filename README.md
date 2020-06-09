@@ -55,3 +55,4 @@ The Engineering Mindset YouTu... | [Click me](https://www.youtube.com/channel/UC
 Jelle's Marble Runs | [Click me](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g) | Scott
 LevelUpTuts YouTube Channel | [Click me](https://www.youtube.com/user/LevelUpTuts) | Scott
 Wes' YouTube Channel | [Click me](https://www.youtube.com/wesbos) | Wes
+Summoning Salt | [Click me](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w) | Scott
