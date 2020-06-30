@@ -22,6 +22,7 @@ The Dream Podcast | [Click me](https://www.stitcher.com/podcast/stitcher/the-dre
 Baron of Botox | [Click me](https://podcasts.apple.com/us/podcast/the-baron-of-botox/id1493450409) | Scott
 Matt Stauffer - Setting Up Yo... | [Click me](https://mattstauffer.com/blog/setting-up-your-webcam-lights-and-audio-for-remote-work-podcasting-videos-and-streaming/) | Wes
 Stronger by Science Podcast | [Click me](https://www.strongerbyscience.com/podcast/) | Scott
+Software Engineering Daily Po... | [Click me](https://softwareengineeringdaily.com/) | Scott
 # Sick Picked Youtube Videos or Channels
 
 Name | Link | Sick Pick by
@@ -56,3 +57,4 @@ Jelle's Marble Runs | [Click me](https://www.youtube.com/channel/UCYJdpnjuSWVOLg
 LevelUpTuts YouTube Channel | [Click me](https://www.youtube.com/user/LevelUpTuts) | Scott
 Wes' YouTube Channel | [Click me](https://www.youtube.com/wesbos) | Wes
 Summoning Salt | [Click me](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w) | Scott
+Jeremy Fielding YouTube Chann... | [Click me](https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg) | Wes
