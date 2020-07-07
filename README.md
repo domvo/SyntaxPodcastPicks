@@ -23,6 +23,7 @@ Baron of Botox | [Click me](https://podcasts.apple.com/us/podcast/the-baron-of-b
 Matt Stauffer - Setting Up Yo... | [Click me](https://mattstauffer.com/blog/setting-up-your-webcam-lights-and-audio-for-remote-work-podcasting-videos-and-streaming/) | Wes
 Stronger by Science Podcast | [Click me](https://www.strongerbyscience.com/podcast/) | Scott
 Software Engineering Daily Po... | [Click me](https://softwareengineeringdaily.com/) | Scott
+Flexibility Focus Podcast | [Click me](https://anchor.fm/flexibility-focus) | Scott
 # Sick Picked Youtube Videos or Channels
 
 Name | Link | Sick Pick by
@@ -58,3 +59,4 @@ LevelUpTuts YouTube Channel | [Click me](https://www.youtube.com/user/LevelUpTut
 Wes' YouTube Channel | [Click me](https://www.youtube.com/wesbos) | Wes
 Summoning Salt | [Click me](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w) | Scott
 Jeremy Fielding YouTube Chann... | [Click me](https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg) | Wes
+Mustie1 YouTube Channel | [Click me](https://www.youtube.com/user/mustie1) | Wes
