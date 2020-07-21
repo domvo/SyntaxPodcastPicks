@@ -24,6 +24,7 @@ Matt Stauffer - Setting Up Yo... | [Click me](https://mattstauffer.com/blog/sett
 Stronger by Science Podcast | [Click me](https://www.strongerbyscience.com/podcast/) | Scott
 Software Engineering Daily Po... | [Click me](https://softwareengineeringdaily.com/) | Scott
 Flexibility Focus Podcast | [Click me](https://anchor.fm/flexibility-focus) | Scott
+Malicious Life Podcast | [Click me](https://malicious.life/) | Scott
 # Sick Picked Youtube Videos or Channels
 
 Name | Link | Sick Pick by
