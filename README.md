@@ -61,3 +61,4 @@ Wes' YouTube Channel | [Click me](https://www.youtube.com/wesbos) | Wes
 Summoning Salt | [Click me](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w) | Scott
 Jeremy Fielding YouTube Chann... | [Click me](https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg) | Wes
 Mustie1 YouTube Channel | [Click me](https://www.youtube.com/user/mustie1) | Wes
+How to use a multimeter | [Click me](https://www.youtube.com/watch?v=TdUK6RPdIrA) | Wes
