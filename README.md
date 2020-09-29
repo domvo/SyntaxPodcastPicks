@@ -26,6 +26,7 @@ Software Engineering Daily Po... | [Click me](https://softwareengineeringdaily.c
 Flexibility Focus Podcast | [Click me](https://anchor.fm/flexibility-focus) | Scott
 Malicious Life Podcast | [Click me](https://malicious.life/) | Scott
 What Had Happened Was Podcast | [Click me](https://podcasts.apple.com/us/podcast/what-had-happened-was/id1520209791) | Scott
+New Rustacean Podcast | [Click me](https://newrustacean.com/) | Scott
 # Sick Picked Youtube Videos or Channels
 
 Name | Link | Sick Pick by
