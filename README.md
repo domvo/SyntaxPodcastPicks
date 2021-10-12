@@ -27,6 +27,11 @@ Flexibility Focus Podcast | [Click me](https://anchor.fm/flexibility-focus) | Sc
 Malicious Life Podcast | [Click me](https://malicious.life/) | Scott
 What Had Happened Was Podcast | [Click me](https://podcasts.apple.com/us/podcast/what-had-happened-was/id1520209791) | Scott
 New Rustacean Podcast | [Click me](https://newrustacean.com/) | Scott
+A Death In Cryptoland Podcast | [Click me](https://www.cbc.ca/listen/cbc-podcasts/904-a-death-in-cryptoland) | Scott
+What Had Happened Was Podcast | [Click me](https://starburns.audio/podcasts/what-had-happened-was/) | Scott
+The Changelog 443: Exploring ... | [Click me](https://changelog.com/podcast/443) | Wes
+I Was There Too Podcast | [Click me](https://www.earwolf.com/show/i-was-there-too/) | Scott
+The Skeptics Guide To The Uni... | [Click me](https://www.theskepticsguide.org/podcasts/episode-844) | Scott
 # Sick Picked Youtube Videos or Channels
 
 Name | Link | Sick Pick by
@@ -65,3 +70,6 @@ Jeremy Fielding YouTube Chann... | [Click me](https://www.youtube.com/channel/UC
 Mustie1 YouTube Channel | [Click me](https://www.youtube.com/user/mustie1) | Wes
 How to use a multimeter | [Click me](https://www.youtube.com/watch?v=TdUK6RPdIrA) | Wes
 Displaced Gamers YouTube Chan... | [Click me](https://www.youtube.com/c/DisplacedGamers) | Scott
+Problematic Roller Coasters | [Click me](https://www.youtube.com/watch?v=x_j0p_0Lvao&list=PL-gC-PDnDt6SAt8sPgFjghDkRt4yWQ_Qt) | Scott
+Scrapyard Finds! Repair-A-Tho... | [Click me](https://www.youtube.com/watch?v=bHeii834ujs) | Wes
+Mattias Random Stuff YouTube ... | [Click me](https://www.youtube.com/watch?v=1L2ef1CP-yw) | Wes
