@@ -32,6 +32,8 @@ What Had Happened Was Podcast | [Click me](https://starburns.audio/podcasts/what
 The Changelog 443: Exploring ... | [Click me](https://changelog.com/podcast/443) | Wes
 I Was There Too Podcast | [Click me](https://www.earwolf.com/show/i-was-there-too/) | Scott
 The Skeptics Guide To The Uni... | [Click me](https://www.theskepticsguide.org/podcasts/episode-844) | Scott
+The Always Sunny podcast | [Click me](https://the-always-sunny-podcast.simplecast.com) | Wes
+Sweet Bobby Podcast | [Click me](https://www.tortoisemedia.com/listen/sweet-bobby/) | Scott
 # Sick Picked Youtube Videos or Channels
 
 Name | Link | Sick Pick by
