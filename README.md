@@ -75,3 +75,4 @@ Displaced Gamers YouTube Chan... | [Click me](https://www.youtube.com/c/Displace
 Problematic Roller Coasters | [Click me](https://www.youtube.com/watch?v=x_j0p_0Lvao&list=PL-gC-PDnDt6SAt8sPgFjghDkRt4yWQ_Qt) | Scott
 Scrapyard Finds! Repair-A-Tho... | [Click me](https://www.youtube.com/watch?v=bHeii834ujs) | Wes
 Mattias Random Stuff YouTube ... | [Click me](https://www.youtube.com/watch?v=1L2ef1CP-yw) | Wes
+LevelUp YouTube channel | [Click me](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) | Scott
