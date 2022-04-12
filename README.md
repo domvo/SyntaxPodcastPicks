@@ -1,4 +1,5 @@
 # SyntaxPodcastPicks (+ YouTube)
+[![Get Sickpicks](https://github.com/domvo/SyntaxPodcastPicks/actions/workflows/main.yml/badge.svg)](https://github.com/domvo/SyntaxPodcastPicks/actions/workflows/main.yml)
 If you're like me, you love the [Syntax.FM podcast](https://syntax.fm) and also can't get enough of other cool podcasts. 
 
 This is a list of all podcasts (and youtube channels/videos) Wes and Scott sick-picked. 
